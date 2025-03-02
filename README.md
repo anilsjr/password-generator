@@ -1,6 +1,7 @@
 # password-generator# password-generator
 # live
-https://anilsjr.gituhb.io/password-generator
+https://anilsjr.github.io/password-generator/
+
 ## Features
 - Generate secure passwords
 - Customizable password length
