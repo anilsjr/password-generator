@@ -1,4 +1,4 @@
-# password-generator# password-generator
+# password-generator
 # live
 https://anilsjr.github.io/password-generator/
 
